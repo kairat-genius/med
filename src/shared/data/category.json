@@ -1,0 +1,121 @@
+{
+  "categories": [
+    {
+      "id": 500000091,
+      "name": "Кроссовки",
+      "groups": [
+        {
+          "title": "Категория",
+          "items": [
+            {
+              "id": "500000375",
+              "name": "Бег",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251210/b8769d105aa04c268b38f4a46e173886.jpg"
+            },
+            {
+              "id": "500000373",
+              "name": "Лайфстайл",
+              "imageUrl": "https://cdn-img.thepoizon.ru/noah/og/3d3459c7-92f2-4902-8389-05a4473e3428.png"
+            },
+            {
+              "id": "500000377",
+              "name": "Тренировки",
+              "imageUrl": "https://cdn-img.thepoizon.ru/noah/og/b697ccac-6f5a-48c8-8896-9fb5a8f05af6.png"
+            },
+            {
+              "id": "500000371",
+              "name": "Скейтбординг",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251213/6b8d7997385e48b6b5911d4484376980.jpg"
+            },
+            {
+              "id": "500000379",
+              "name": "Бутсы",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251211/f8428ef023284f4fadb0768dc302595c.jpg"
+            },
+            {
+              "id": "500000381",
+              "name": "Туризм и активный отдых",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251208/fc3fbd4d6fb84200abbb0218fc37d654.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500000106,
+      "name": "Обувь",
+      "groups": [
+        {
+          "title": "Категория",
+          "items": [
+            {
+              "id": "500000618",
+              "name": "Повседневная кожаная обувь",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251212/7e4ff7a2eadd4380aa833153f8e07ec7.jpg"
+            },
+            {
+              "id": "500000386",
+              "name": "Челси",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251213/788b782409d948959f3a4faa23197b8c.jpg"
+            },
+            {
+              "id": "500000383",
+              "name": "Ботильоны",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251213/b5570afa57c1411da130e0028b07b801.jpg"
+            },
+            {
+              "id": "500000619",
+              "name": "Обувь Birkenstock",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251214/cca63345aabb491d9aeec81fe5e183e2.jpg"
+            },
+            {
+              "id": "500000394",
+              "name": "Высокие каблуки",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20260114/f3f45bc8c32945aa83fc2c6e5a6f0ad4.jpg"
+            },
+            {
+              "id": "500000384",
+              "name": "Ботинки для активного отдыха",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251209/eb18300550fd4d9ea4c80ec569f7ae55.jpg"
+            },
+            {
+              "id": "500000399",
+              "name": "Туфли",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251212/51656fd734d4425da8c95b122ada1008.jpg"
+            },
+            {
+              "id": "500000390",
+              "name": "Балетки",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251214/a885dbcd2a3748f195a04c21e1bef73b.jpg"
+            },
+            {
+              "id": "500000387",
+              "name": "Сноубутсы",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251208/02da425f504b48a7a6aba7f7e992297c.jpg"
+            },
+            {
+              "id": "500000397",
+              "name": "Шлепанцы",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251211/3a209f2e53914ba782f5368c505d8ac2.jpg"
+            },
+            {
+              "id": "500000396",
+              "name": "Сандалии",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251213/a4d6d745d9eb4facb51f0b85bb9ba2f5.jpg"
+            },
+            {
+              "id": "500000385",
+              "name": "Сапоги",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251217/9838b20e375a4ede9b96c3826dc97784.jpg"
+            },
+            {
+              "id": "500000388",
+              "name": "Другие ботинки",
+              "imageUrl": "https://cdn-img.thepoizon.ru/pro-img/origin-img/20251213/e2da6379865047528b403c388222dacb.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

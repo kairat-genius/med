@@ -1,0 +1,67 @@
+export const productData = [
+  {
+    title: "Концентратор кислорода Армед 8F-5AW",
+    slug: "koncentrator-8f-5aw/",
+    image:
+      "/upload/webp/resize_cache/iblock/44c/ik3rbl87x5zhyy35jzxxx3nhf597z4r8/348_348_1/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.webp",
+    article: "10122",
+    rating: 4.8,
+    retailPrice: "52 900 ₽",
+    wholesalePrice: "***** ₽",
+    label: null,
+    inStock: true,
+    buttonText: "В корзину",
+  },
+  {
+    title: "Mesh-небулайзер медицинский Армед M118",
+    slug: "nebulayzer_m118_armed/",
+    image:
+      "/upload/webp/resize_cache/iblock/41f/9x8tlpbcnteoas3gkiug63cusl9e8or2/348_348_1/glavnaya.webp",
+    article: "20144",
+    rating: null,
+    retailPrice: "2 390 ₽",
+    wholesalePrice: "***** ₽",
+    label: "Специальная цена",
+    inStock: true,
+    buttonText: "В корзину",
+  },
+  {
+    title: "Отсасыватель хирургический Армед 7А-23D",
+    slug: "otsasyvatel-xirurgicheskij-7a-23d/",
+    image:
+      "/upload/webp/resize_cache/iblock/bcc/l4ms1eiibuq0tbaphpt8e6i7w1baztre/348_348_1/dlya-glavnykh-kopiya.webp",
+    article: "10286",
+    rating: 4,
+    retailPrice: "17 900 ₽",
+    wholesalePrice: "***** ₽",
+    label: null,
+    inStock: true,
+    buttonText: "В корзину",
+  },
+  {
+    title: "Светильник хирургический медицинский Армед Л734",
+    slug: "svetilnik_armed_l734_proizvodstvo_rossiya/",
+    image:
+      "/upload/webp/resize_cache/iblock/05d/jgs7luq2b4mz9ppevrwsrh87y3mnblbf/348_348_1/glavnoe.webp",
+    article: "20313",
+    rating: null,
+    retailPrice: "62 900 ₽",
+    wholesalePrice: "***** ₽",
+    label: null,
+    inStock: false,
+    buttonText: "Нет в наличии",
+  },
+  {
+    title: "Стерилизатор паровой Армед DGT-8B Объём 8 литров",
+    slug: "sterilizator_parovoy_armed_dgt_8b/",
+    image:
+      "/upload/webp/resize_cache/iblock/bcc/70fss5yofu62j9chocaaau4sci0gez29/348_348_1/parovye-sterilizatory2.webp",
+    article: "17000",
+    rating: null,
+    retailPrice: "123 900 ₽",
+    wholesalePrice: "***** ₽",
+    label: null,
+    inStock: true,
+    buttonText: "В корзину",
+  },
+];
